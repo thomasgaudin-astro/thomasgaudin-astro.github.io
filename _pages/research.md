@@ -4,7 +4,7 @@ title: "My Research"
 excerpt: "Some more information about my research interests."
 author_profile: true
 redirect_from: 
-
+  - /research/
 ---
 
 Symbiotic Star Mass Transfer
