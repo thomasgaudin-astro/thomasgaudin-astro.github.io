@@ -11,6 +11,12 @@ main:
     
   - title: "Research"
     url: /research/
+    
+  - title: "March for Science"
+    url: /mfs/
+    
+  - title: "Hobbies"
+    url: /hobbies/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
