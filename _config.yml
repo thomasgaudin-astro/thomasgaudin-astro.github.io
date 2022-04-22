@@ -81,35 +81,35 @@ analytics:
 # Site Author
 author:
   name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  avatar           : "tg_headshot.jpg"
+  bio              : "Graduate student at New Mexico Tech interested in stellar evolution"
+  location         : "Socorro, NM"
+  employer         : "New Mexico Institute of Mining and Technology"
+  pubmed           : 
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  email            : "tmg6006@psu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "thomas.gaudin.37"
   foursquare       :
-  github           : "academicpages"
+  github           : "thomasgaudin-astro"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "tommyboygaudin"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "thomas-gaudin-499950135"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "thomas_gaudin"
   vine             :
   weibo            :
   xing             :
