@@ -1,7 +1,7 @@
 ---
 title: "Relationship between attitude toward physics and scientific misconceptions"
 collection: talks
-type: "Talk"
+type: "Poster"
 permalink: /talks/2018-04-10-misconceptions
 venue: "Furman University, Furman Engaged!"
 date: 2018-04-10
