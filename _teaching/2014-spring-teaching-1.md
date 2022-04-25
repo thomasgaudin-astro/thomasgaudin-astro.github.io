@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Science Intern"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Museum Teaching"
+permalink: /teaching/
+venue: "Creative Discovery Museum"
+date: 2015-05-15
+location: "Chattanooga, Tennessee"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Creative Discovery Museum gave me my first teaching experience as an intern in the Science Department. My main responsibilities were to work on the floor of the museum as a facilitator in the Make-It Space.
 
 Heading 1
 ======
