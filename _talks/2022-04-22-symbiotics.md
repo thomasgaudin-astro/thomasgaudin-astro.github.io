@@ -8,6 +8,8 @@ date: 2022-04-22
 location: "Socorro, NM"
 ---
 
+Talk given to the New Mexico Space Grant Consortium about my grant-funded Master's research into symbiotic stars.
+
 Talk Abstract
 =====
 
