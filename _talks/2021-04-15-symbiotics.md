@@ -18,4 +18,4 @@ Symbiotic star systems are a type of interacting stellar binary in which a red g
 Link to Poster
 ====
 
-[Poster File](/files/)
+[Poster File](/files/Final SRS Poster.pdf)
