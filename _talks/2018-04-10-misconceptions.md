@@ -8,4 +8,5 @@ date: 2018-04-10
 location: "Greenville, South Carolina"
 ---
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+My first poster presentation: a forray into science education research. This work investigated the link between attitude towards physics and the prevalence of physics misconceptions in Physics I students.
+
