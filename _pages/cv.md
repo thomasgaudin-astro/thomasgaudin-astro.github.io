@@ -98,11 +98,22 @@ Service and leadership
   * 2022 New Mexico State Science Olympiad
 
 * Department Representative
-  * New Mexico Tech Grad Student Assosciation
+  * New Mexico Tech Graduate Student Assosciation
 
-* Department Representative
-  * New Mexico Tech Grad Student Assosciation
+* Event Supervisor, Astronomy B event
+  * 2021 New Mexico State Science Olympiad
+
+* Committee Member
+  * NMT Physics Department Graduate Student Recruitment Video Committee
   
+* At-Large Board Member
+  * Barnard-Seyfert Astronomical Society
+  * 2020
+
+* Chapter President
+  * Furman University Society of Physics Students
+  * 2017-2018
+
 Talks
 -----
 
