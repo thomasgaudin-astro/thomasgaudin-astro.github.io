@@ -10,14 +10,16 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+-----
+
 * B.S. in Physics, Furman University, 2018
   * Minor in Informal Science Education
 * M.S. in Physics, New Mexico Institute of Mining and Technology, 2022
 * Ph.D in Astronomy and Astrophysics, Pennsylvania State University, 2028 (expected)
 
 Research experience
-======
+-----
+
 * Master's Thesis Project: An Investigation of Mass Transfer in Symbiotic Stars
   * New Mexico Insitute of Mining and Technology
   * Advisor: Dr. Ryan Norris
@@ -26,38 +28,70 @@ Research experience
      * Used the NASA Infrared Telescope Facility to provide near-IR spectroscopy data that was used to characterize stellar parameters and calibrate the dust contributions to interferometry data in each system.
 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Semester Research Project: Solar Instrumentation Upgrade to Etscorn Campus Observatory (ECO)
+  * New Mexico Insitute of Mining and Technology
+  * Advisor: Dr. Ken Minschwanner
+    * Participated in the background research and initial parameterization of a Lyot filter and heliostat that are planned to be installed at ECO for solar astronomy research.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Semester Research Project: Relationship between Attitude Towards Physics and Scientific Misconceptions
+  * Furman University
+  * Advisor: Dr. Michael Svec
+    * Used the Colorado Learning Attitutes about Science Survey (CLASS) and the Force Concept Inventory (FCI) to investigate correlation between a student’s attitude towards physics and their conceptual understanding of Physics 1 subject matter.
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+Successful Observation Proposals
+-----
+
+* CHARA Array - 2022A Semester
+  * Project: Investigation of mass transfer in symbiotic stars
+  * Role: Principal Investigator
+
+* CHARA Array - 2021B Semester
+  * Project: Investigation of mass transfer in symbiotic stars
+  * Role: Principal Investigator
+
+* NASA Infrared Telescope Facility - 2022A Semester
+  * Project: Investigation of mass transfer in symbiotic stars
+  * Role: Principal Investigator
+
+* NASA Infrared Telescope Facility - 2022A Semester
+  * Project: Investigation of mass transfer in symbiotic stars
+  * Role: Co-Investigator
+
+Grants and Fellowships
+-----
+
+* Homer F. Braddock/Nellie H. and Oscar L. Roberts Fellowship
+  * Amount: $5,000
+  * Year: 2022-2023
+  * Awarding Institution: Pennsylvania State University Department of Astronomy and Astrophysics
+
+* New Mexico Space Grant Consortium Graduate Research Fellowship
+  * Amount: $10,000
+  * Year: 2021-2022
+  * Awarding Institution: New Mexico Space Grant Consortium
+
 Teaching
-======
+-----
+
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
-======
+-----
+
 * Currently signed in to 43 different slack teams
+  
+Talks
+-----
+
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
+Publications
+-----
+
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
