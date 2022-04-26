@@ -2,7 +2,7 @@
 title: "Science Intern"
 collection: teaching
 type: "Museum Teaching"
-permalink: /teaching/
+permalink: /teaching/cdm-internship
 venue: "Creative Discovery Museum"
 date: 2015-05-15
 location: "Chattanooga, Tennessee"
