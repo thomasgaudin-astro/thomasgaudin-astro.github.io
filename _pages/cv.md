@@ -80,7 +80,28 @@ Teaching
 Service and leadership
 -----
 
-* Currently signed in to 43 different slack teams
+* Co-Founder, National Social Media Chair, and 2017 March Facilitator
+  * March for Science
+  * January - April 2017
+
+* Digital Director
+  * March for Science
+  * 2020 - Present
+
+* Symposium Organizer
+  * 2022 N4WPP Water Symposium
+
+* Mathematics and Computer Science Judge, Junior Division
+  * 2022 New Mexico State Science Fair
+
+* Event Supervisor, Astronomy C and Ping Pong Parachute events
+  * 2022 New Mexico State Science Olympiad
+
+* Department Representative
+  * New Mexico Tech Grad Student Assosciation
+
+* Department Representative
+  * New Mexico Tech Grad Student Assosciation
   
 Talks
 -----
