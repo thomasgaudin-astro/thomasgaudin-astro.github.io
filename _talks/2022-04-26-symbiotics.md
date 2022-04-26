@@ -19,4 +19,4 @@ Symbiotic stars are a type of wide interacting binary system consisting of a coo
 Link to Slides
 =====
 
-[Presentation Slides]()
+[Presentation Slides](/files/CHARA Talk.pdf)
