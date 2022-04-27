@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Symbiotic Star Mass Transfer
-=====
+-----
 
 My primary area of research for the past two years has been my Master's thesis work on symbiotic stars. Symbiotic stars are interacting binaries containing a red giant with a white dwarf companion. I am interested in the evolution of these rare systems into more evolved binaries such as cataclysmic variable stars, then into the eventual transient phenomena that will be produced. In order to figure out how symbiotic stars evolve, we must learn more about how the red giant loses mass to the white dwarr. Specifically, we are looking to answer the question: "What mechanism drives mass transfer in symbiotic stars?"
 
