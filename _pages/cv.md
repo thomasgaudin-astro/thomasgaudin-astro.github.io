@@ -114,6 +114,28 @@ Service and leadership
   * Furman University Society of Physics Students
   * 2017-2018
 
+Professional Development
+-----
+
+* 2021 Dunlap Institute Virtual Instrumentation Summer School
+
+Professional Associations
+-----
+
+* American Astronomical Society
+* American Physical Society
+
+Awards and Honors
+-----
+
+* Golden Key International Honors Society
+* Magna Cum Laude - Furman University
+* Sigma Pi Sigma International Physics Honor Society
+* Phi Eta Sigma National Honors Society
+* Most Outstanding Team Member
+  * December 2019
+  * Adventure Science Center
+
 Talks
 -----
 
