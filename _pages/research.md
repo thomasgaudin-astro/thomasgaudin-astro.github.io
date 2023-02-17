@@ -7,6 +7,12 @@ redirect_from:
   - /research/
 ---
 
+The S-CUBED Survey: Be X-ray Binaries in the SMC
+-----
+
+My current research involves the S-CUBED survey that is being conducted by Dr. Jamie Kennea and the NASA Swift Science Operations Team. The S-CUBED survey is an effort to understand the high-mass X-ray binary (HMXB) population of the SMC. As the SMC has recently undergone a great increase in star formation due to what are thought to be interactions with the LMC, this dwarf galaxy has an unusually high population of HMXBs. The large majority of these systems are Be X-ray binaries (BeXBs). BeXBs contain an early-type OB star that show emission lines in their spectra due to an extretion disk that surrounds the star. Their companion is often a neutron star in an eccentric orbit that emits X-rays when it interacts with the OB star. This project surveys the SMC once per week to search for transient/persistent X-ray sources that may be candidate X-ray binaries. 
+
+
 Symbiotic Star Mass Transfer
 -----
 
