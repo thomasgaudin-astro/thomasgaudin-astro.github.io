@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Thomas Gaudin"
   avatar           : "tg_headshot.jpg"
-  bio              : "Graduate student at New Mexico Tech interested in stellar evolution"
-  location         : "Socorro, NM"
-  employer         : "New Mexico Tech"
+  bio              : "Graduate student in Astronomy and Astrophysics at Penn State University interested in X-ray binary systems"
+  location         : "State College, PA"
+  employer         : "Pennsylvania State University"
   pubmed           : 
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "tmg6006@psu.edu"
+  email            : "thomasgaudin.astro@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
