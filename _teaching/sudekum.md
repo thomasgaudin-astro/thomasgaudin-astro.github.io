@@ -4,7 +4,7 @@ collection: outreach
 type: "Museum Outreach"
 permalink: /teaching/astro-106-furman
 venue: "Sudekum Planetarium, Adventure Science Center"
-date: 2018-08
+date: 2018-08-17
 location: "Nashville, TN"
 ---
 
