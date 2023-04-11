@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Thomas Gaudin"
   avatar           : "tg_headshot.jpg"
-  bio              : "Graduate student in Astronomy and Astrophysics at Penn State University interested in X-ray binary systems"
-  location         : "State College, PA"
-  employer         : "Pennsylvania State University"
+  bio              : "Graduate student at New Mexico Tech interested in stellar evolution"
+  location         : "Socorro, NM"
+  employer         : "New Mexico Tech"
   pubmed           : 
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "thomasgaudin.astro@gmail.com"
+  email            : "tmg6006@psu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -265,7 +265,6 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-  - jekyll-remote-theme
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -311,4 +310,4 @@ compress_html:
   ignore:
     envs: development
 
-remote_theme: pages-themes/merlot@v0.2.0
+theme: jekyll-theme-slate
