@@ -18,5 +18,7 @@ You can find more information about the podcast on the [YouTube channel](https:/
 Astrophotography and Hiking
 -----
 
+When I can, I am an avid hiker. I particularly enjoy exploring the American Southwest and the Appalachain Mountains. While out in remote areas, I enjoy  using my DSLR to take amateur nature photography of the landscapes that I find. Additionally, I have worked both by myself and with various amateur astronomical societies to improve my DSLR astrophotography. I typically shoot with a Nikon D3400 using a 18mm f/3.5 or a 300mm f/6.3 lens. My shots are tracked by a Star Adventurer and processed using Adobe Photography Suite or PixInsight.
 
 
+<src="/images/DSC_0163-Pano-1.png" alt="MW Over Socorro" width="250"/>
