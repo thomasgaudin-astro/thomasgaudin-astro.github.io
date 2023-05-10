@@ -3,7 +3,7 @@ title: "Problem Among the Planets"
 collection: publications
 permalink: 
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 
+date: '2023-08-01
 venue: 'In S. Jeong, L. Bryan, D. Tippins,\& C. Sexton. (Eds.). Navigating the challenges of elementary science teaching and learning: Using case-based pedagogy to understand dilemmas of practice.'
 paperurl: 
 citation: 'Gaudin, T. (forthcoming). "Problem Among the Planets". In S. Jeong, L. Bryan, D. Tippins,& C. Sexton. (Eds.). Navigating the challenges of elementary science teaching and learning: Using case-based pedagogy to understand dilemmas of practice. Cham, Switzerland: Springer Nature.'
