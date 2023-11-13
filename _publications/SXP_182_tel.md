@@ -2,7 +2,7 @@
 title: "Detection of a previously unknown Be/X-ray binary in the SMC, Swift J010902.6-723710 = SXP 182"
 collection: publications
 permalink: 
-excerpt: ')bservations carried out as part of the regular S-CUBED monitoring of the Small Magellanic Cloud (Kennea et al, 2018) detected weak X-ray emission from Swift J010902.6-723710 on 9 October 2023 and again on 30 October 2023.'
+excerpt: 'Observations carried out as part of the regular S-CUBED monitoring of the Small Magellanic Cloud (Kennea et al, 2018) detected weak X-ray emission from Swift J010902.6-723710 on 9 October 2023 and again on 30 October 2023.'
 date: '2023-11-6'
 venue: 'The Astronomer's Telegram'
 paperurl: 'https://www.astronomerstelegram.org/?read=16321'
