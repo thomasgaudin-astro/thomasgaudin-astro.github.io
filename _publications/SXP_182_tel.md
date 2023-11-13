@@ -4,7 +4,7 @@ collection: publications
 permalink: 
 excerpt: 'Observations carried out as part of the regular S-CUBED monitoring of the Small Magellanic Cloud (Kennea et al, 2018) detected weak X-ray emission from Swift J010902.6-723710 on 9 October 2023 and again on 30 October 2023.'
 date: '2023-11-6'
-venue: 'The Astronomer's Telegram'
+venue: 'The Astronomers Telegram'
 paperurl: 'https://www.astronomerstelegram.org/?read=16321'
 citation: 'Coe, M. J., Kennea, J. A., Gaudin, T. M., et al. 2023, The Astronomer’s Telegram, 16321, 1'
 ---
