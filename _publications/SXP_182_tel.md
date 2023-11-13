@@ -7,6 +7,7 @@ date: '2023-11-6'
 venue: 'The Astronomer's Telegram'
 paperurl: 'https://www.astronomerstelegram.org/?read=16321'
 citation: 'Coe, M. J., Kennea, J. A., Gaudin, T. M., et al. 2023, The Astronomer’s Telegram, 16321, 1'
+---
 
 This paper is a telegram announcing the discovery of a new Be/X-ray binary, SXP 182, by the NASA Swift mission during a Type I outburst. 
 This source was first identified by my first Swift research project that pioneered new methods of Be/X-ray Binary detection using archival Swift and VizieR data.
