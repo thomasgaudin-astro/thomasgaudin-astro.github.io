@@ -18,4 +18,4 @@ An outreach talk given to the State College chapter of Astronomy on Tap. This ta
 Link to Slides
 =====
 
-[Slides](/files/PSU Lunch Talk.pdf)
+[Slides](/files/Optical Interferometry.pdf)
