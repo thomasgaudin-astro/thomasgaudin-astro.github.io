@@ -22,10 +22,7 @@ Flights such as these gave students a chance to learn about our history of solar
 Astronomy on Tap: State College Chapter
 -----
 
-When I can, I am an avid hiker. I particularly enjoy exploring the American Southwest and the Appalachain Mountains. While out in remote areas, I enjoy  using my DSLR to take amateur nature photography of the landscapes that I find. Additionally, I have worked both by myself and with various amateur astronomical societies to improve my DSLR astrophotography. I typically shoot with a Nikon D3400 using a 18mm f/3.5 or a 300mm f/6.3 lens. My shots are tracked by a Star Adventurer and processed using Adobe Photography Suite or PixInsight. Some of my photos are shown below. 
-
-
-<img align="center" src="/images/DSC_0163-Pano-1.jpg" alt="Milky Way" width="750"/>
+I have been involved as an organizer of State College's chapter of Astronomy on Tap since arriving at Penn State. Astronomy on Tap is a worldwide outreach organization with chapters in most major cities. Each chapter puts on a monthly event that brings astronomical research to the general public through public outreach talks in a local bar. In State College, our monthly events are held at Happy Valley Brewing Co.
 
 University Outreach
 -----
