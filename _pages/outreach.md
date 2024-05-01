@@ -49,23 +49,27 @@ Museum Education Experience
 
 **Adventure Science Center**
 
+<img align="left" src="/images/asc_logo.png" alt="ASC Logo" width="200"/>
 After my undergraduate studies, I spent 2 years working at Adventure Science Center as a Planetarium Educator. My role was primarily to present shows in the Sudekum Planetarium, both live and recorded. I was able to write and present my own version of "Nightwatch", a live star talk that would change with the seasons. The other live show that I performed was a show called "Destination Solar System", a show with a script that requires some acting on the part of the presenter as they fly through the solar system. I was also responsible for presenting recorded shows and laser shows. I contributed to planning and execution of special events such as Drink and Discover nights. I also served as a member of the Outreach Team, driving to local schools to work on outreach events when I was not scheduled to be in the planetarium.
 
 When I was not presenting shows, I was working on creating educator guides for all of our shows. Educator guides are essentially lesson plan and field trip prep aides for teachers that were considering bringing a school group to a planetarium show. Each educator guide contained a brief summary of the show, a list of vocabulary words that the show mentions, suggestions for pre-visit and post-visit activities, and a summary of all Tennessee and Next Generation Science Standards that are relevant to the show. These educator guides were published on the website for the museum and were distrbuted to all of our teachers during Teacher Open House events.
 
 **Roper Mountain Science Center**
 
+<img align="left" src="/images/rmsc_logo.png" alt="RMSC Logo" width="200"/>
 I served as a Science Education and Astronomy Intern for my last summer of college at Roper Mountain Science Center. Roper Mountain Science Center is a center for science education that is run by the Greenville County School District. During the school year, the center is primarily responsible for teaching field trip classes to schools within the county school system. During the summer, Roper Mountain becomes a space for hosting week-long summer camps that are either taught by the center's instructors or by local educators. As a Science Education Intern, my role was primarily to be an aide for whichever summer camp needed me on a given day or in a given week. Sometimes, I would be assigned to work with an instructor for a full week. Other times, I would spend only a single day helping with an event or would supervise a field trip. I helped with 15 total camps over the course of 8 weeks, instructing students on everything from 3-D printing and movie making to astronomy and engineering. 
 
 Roper Mountain is also home to a large observatory and planetarium. Every Friday night they host a Starry Nights event where the general public can come to see a planetarium show or look through the 24" Clark refractor telescope. I spent my Friday nights volunteering for this event and etiher helping in the planetarium or helping to facilitate telescope observing at the observatory. Sometimes I would help to operate the large 24" telescope. Sometimes, I would be responsible for a smaller telescope outside of the observatory. I was also on hand for the 2017 Total Solar Eclipse, which passed right over Roper Mountain. As part of this event, I spent 3 days outside of the observatory facilitating solar observing and talking to crowds about the solar eclipse.
 
 **Creative Discovery Museum**
 
+<img align="left" src="/images/cdm_logo.png" alt="CDM Logo" width="200"/>
 
 
 March for Science
 -----
 
+<img align="left" src="/images/MFS - Primary Logo Horizontal_Full Color.png" alt="MFS Logo" width="200"/>
 
 
 Astronomical Societies
