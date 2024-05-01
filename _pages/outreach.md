@@ -64,14 +64,15 @@ Roper Mountain is also home to a large observatory and planetarium. Every Friday
 **Creative Discovery Museum**
 
 <img align="left" src="/images/cdm_logo.png" alt="CDM Logo" width="200"/>
-
+Sample Text
 
 March for Science
 -----
 
 <img align="left" src="/images/MFS - Primary Logo Horizontal_Full Color.png" alt="MFS Logo" width="200"/>
-
+Sample Text
 
 Astronomical Societies
 -----
 
+Sample Text
