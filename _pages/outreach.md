@@ -30,6 +30,7 @@ University Outreach
 
 **Penn State**
 
+<img align="left" src="/images/psu_ecos_logo.png" alt="PSU ECOS Logo" width="300"/>
 As a member of the Penn State Department of Astronomy and Astrophysics, I have helped with several outreach events. During our yearly AstroFest event, I help to coordinate rooftop observing, and I also give planetarium shows in the Davey Planetarium. I have also helped with school field trips by running planetarium shows for groups that visit the department. Additionally, I enjoy participating in rooftop open house events where we invite public audiences to join us for telescope observing on the roof of our building one night a month. 
 
 Davey Laboratory recently underwent a major renovation to overhaul our planetarium, and I contributed heavily to this upgrade. As a member of the team overseeing this upgrade, I sat in on discussions of vendor pitches, contributed to the design of the new planetarium, and drove content creation for shows on the newly-digitized system. 
