@@ -31,15 +31,16 @@ University Outreach
 **Penn State**
 
 <img align="left" src="/images/psu_ecos_logo.png" alt="PSU ECOS Logo" width="200"/>
-
 As a member of the Penn State Department of Astronomy and Astrophysics, I have helped with several outreach events. During our yearly AstroFest event, I help to coordinate rooftop observing, and I also give planetarium shows in the Davey Planetarium. I have also helped with school field trips by running planetarium shows for groups that visit the department. Additionally, I enjoy participating in rooftop open house events where we invite public audiences to join us for telescope observing on the roof of our building one night a month. 
 
 Davey Laboratory recently underwent a major renovation to overhaul our planetarium, and I contributed heavily to this upgrade. As a member of the team overseeing this upgrade, I sat in on discussions of vendor pitches, contributed to the design of the new planetarium, and drove content creation for shows on the newly-digitized system. 
 
 **New Mexico Tech**
 
+<img align="left" src="/images/NMTdept_of_outreach_square.png" alt="NMT Outreach Logo" width="200"/>
 During my second year as a Master's student at New Mexico Tech, I was hired as a Teaching Assistant by the Department of Outreach for the university. This role came with a few major responsibilities. The first was to be a liason between the department and any professors who neeeded help with their outreach events. This could include anything from helping these professors plan their outreach for broader impact statements to being an extra helping hand at an outreach event. I helped with everything from Battle Bots to Antarctica research. The second thing major responsibility was to be an event organizer for the major outrezch events that the Department of Outreach put on every year. New Mexico Tech is the host of the state Science Fair and the state championships of Science Olympiad. As a member of the outreach department, I server as a judge for the Science Fair and as a test writer and event host for Science Olympiad. I also helped to organize the awards show for each event and helped to coordinate volunteers throughout.
 
+<img align="right" src="/images/N4WPP_Logo1.png" alt="N4WPP Logo" width="200"/>
 My major contribution to the NMT Department of Outreach was to serve on the symposium organizing committee for the Navajo Nation Water Purification Project (N4WPP) Water Symposium. N4WPP works with the Navajo Nation in partnership with other eduational institutions and community leaders to help deal with the clean water shortage crisis in the Navajo Nation lands in Northwest New Mexico. The Water Symposium was a two-day symposium at Farmington High School that aimed to educate high school studnets about the importance of clean water. There were vaious events including a clean water engineering design challenge as well. As a member of the organizing committee, I sat in on all planning meetings, contributed to the advertising efforts, and was able to be on site for the whole symposium to do whatever was needed to make sure that the event ran smoothly.
 
 
