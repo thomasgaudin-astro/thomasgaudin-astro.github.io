@@ -64,7 +64,9 @@ Roper Mountain is also home to a large observatory and planetarium. Every Friday
 **Creative Discovery Museum**
 
 <img align="left" src="/images/cdm_logo.png" alt="CDM Logo" width="200"/>
-Sample Text
+My first taste of science outreach came via 2 summers of internship experience at the Creative Discovery Museum. I served as an intern for the Science Department with one major role. I was tasked with content development and activity facilitation for the museum's Maker Space exhibit. The Maker Space had two areas. One was an outer area with quick activities that passers-by could interact with and complete in a few minutes. These activities could range from building Cubelet robots, taking apart old technology, building 3-D sculptures out of recycled materials, and so much more. On the interior of the Maker Space, there was a room where you could do more involved crafts like woodworking and sewing. I was responsible for giving tours of these spaces, helping visitors to learn new skills, and making sure that everything ran smoothly in the space. 
+
+I was also responsible for developing new content for the space. I was constantly testing new maker activities and working to design fun projects for guests. My major design project was a modular "circuit blocks" station, where visitors could connect components of circuits such as batteries, wires, switches, lightbulbs, fans, etc. together to learn about how electric circuits work. Each block was a single component attached to a piece of wood. Visitors would connect different blocks together using wires with alligator clips soldered to the ends of them. All blocks were homemade by me using parts that I scavenged from other parts of the space. 
 
 March for Science
 -----
