@@ -22,7 +22,7 @@ Flights such as these gave students a chance to learn about our history of solar
 Astronomy on Tap: State College Chapter
 -----
 
-<img align="left" src="/images/AoT Logo.png" alt="AOTSC Logo" width="250"/>
+<img align="left" src="/images/AoT Logo.png" alt="AOTSC Logo" width="280"/>
 I have been involved as an organizer of State College's chapter of Astronomy on Tap since arriving at Penn State. Astronomy on Tap is a worldwide outreach organization with chapters in most major cities. Each chapter puts on a monthly event that brings astronomical research to the general public through public outreach talks in a local bar. In State College, our monthly events are held at Happy Valley Brewing Company and feature two public talks given by astronomers about their science or some fun topic in astronomy. Additionally, each event features an Astro in the News and an Astronomy Trivia segment. As part of the team, I help to coordinate which speakers will be selected for a given month, help to plan each event, and serve as the trivia master, writing all of the trivia questions for each month's event.
 
 University Outreach
