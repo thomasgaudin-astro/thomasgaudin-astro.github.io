@@ -79,4 +79,4 @@ For the next few years, I served as the Digital Director of the March for Scienc
 Astronomical Societies
 -----
 
-Sample Text
+While living in Nashville, I served as a board member of the Barnard-Seyfert Astronomical Society. I attended meetings and helped plan events. Every month, we hosted a Star Party where the general public could come to look through telescopes and talk to amateur astronomers about space. I brought cameras and telescopes to talk to the public about various objects in space and about the process of learning to do astrophotography. 
