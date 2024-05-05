@@ -15,6 +15,7 @@ Education
 * B.S. in Physics, Furman University, 2018
   * Minor in Informal Science Education
 * M.S. in Physics, New Mexico Institute of Mining and Technology, 2022
+* M.S. in Astronomy and Astrophysics, Pennsylvania State University, 2024
 * Ph.D in Astronomy and Astrophysics, Pennsylvania State University, 2028 (expected)
 
 Research experience
