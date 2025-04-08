@@ -81,10 +81,6 @@ Teaching
 Service and leadership
 -----
 
-* Digital Director
-  * March for Science
-  * 2020 - Present
-
 * Symposium Organizer
   * 2022 N4WPP Water Symposium
 
