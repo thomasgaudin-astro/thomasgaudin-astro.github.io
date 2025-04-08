@@ -81,10 +81,6 @@ Teaching
 Service and leadership
 -----
 
-* Co-Founder, National Social Media Chair, and 2017 March Facilitator
-  * March for Science
-  * January - April 2017
-
 * Digital Director
   * March for Science
   * 2020 - Present
