@@ -244,6 +244,13 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      header:
+        overlay_image: /files/swift.jpeg
+        overlay_filter: 0.6
 
 # Sass/SCSS
 sass:
