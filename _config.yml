@@ -249,7 +249,7 @@ defaults:
       type: pages
     values:
       header:
-        overlay_image: /assets/images/swift.jpeg
+        overlay_image: assets/images/swift.jpeg
         overlay_filter: 0.6
 
 # Sass/SCSS
