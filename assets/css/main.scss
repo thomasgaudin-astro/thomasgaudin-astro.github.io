@@ -104,3 +104,17 @@ body::before {
   opacity: 0.05;
   pointer-events: none;
 }
+
+body {
+  font-family: "Inter", "Roboto", sans-serif;
+}
+
+h1, h2 {
+  letter-spacing: 0.5px;
+}
+
+hr {
+  border: none;
+  height: 1px;
+  background: linear-gradient(to right, transparent, #4cc9f0, transparent);
+}
