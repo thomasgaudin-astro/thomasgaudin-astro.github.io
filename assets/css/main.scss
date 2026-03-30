@@ -39,3 +39,68 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+@import "minimal-mistakes/skins/dark";
+@import "minimal-mistakes";
+
+/* =========================
+   🌌 Astronomy Theme
+   ========================= */
+
+/* Background */
+body {
+  background-color: #0b0f1a; // deep space blue-black
+}
+
+/* Text */
+body, p, li {
+  color: #e6edf3; // soft white
+}
+
+/* Links (X-ray blue glow) */
+a {
+  color: #4cc9f0;
+  text-shadow: 0 0 6px rgba(76, 201, 240, 0.4);
+}
+
+a:hover {
+  color: #ff9e64; // sunrise accent
+}
+
+/* Headers */
+h1, h2, h3 {
+  color: #a5b4fc; // subtle violet-blue
+}
+
+/* Sidebar */
+.sidebar {
+  background: #0d1326;
+  border-right: 1px solid #1f2a44;
+}
+
+/* Code blocks (important for your work) */
+.highlight {
+  background: #111827;
+  border: 1px solid #1f2937;
+}
+
+/* Buttons */
+.btn {
+  background: linear-gradient(135deg, #4cc9f0, #ff6b6b);
+  border: none;
+  color: #0b0f1a;
+}
+
+/* Subtle starfield effect */
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: radial-gradient(white 1px, transparent 1px);
+  background-size: 80px 80px;
+  opacity: 0.05;
+  pointer-events: none;
+}
