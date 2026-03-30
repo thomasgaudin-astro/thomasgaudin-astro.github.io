@@ -312,5 +312,4 @@ compress_html:
   ignore:
     envs: development
 
-site_theme: contrast
-
+minimal_mistakes_skin: dark
