@@ -1,0 +1,49 @@
+/* 🌌 Astronomy Theme */
+
+body {
+  background-color: #0b0f1a !important;
+  color: #e6edf3 !important;
+}
+
+/* Links */
+a {
+  color: #4cc9f0 !important;
+  text-shadow: 0 0 6px rgba(76, 201, 240, 0.4);
+}
+
+a:hover {
+  color: #ff9e64 !important;
+}
+
+/* Headers */
+h1, h2, h3 {
+  color: #a5b4fc !important;
+}
+
+/* Sidebar */
+.sidebar {
+  background: #0d1326 !important;
+  border-right: 1px solid #1f2a44 !important;
+}
+
+/* Code blocks */
+.highlight {
+  background: #111827 !important;
+}
+
+/* Buttons */
+.btn {
+  background: linear-gradient(135deg, #4cc9f0, #ff6b6b) !important;
+  color: #0b0f1a !important;
+}
+
+/* Starfield */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background-image: radial-gradient(white 1px, transparent 1px);
+  background-size: 80px 80px;
+  opacity: 0.05;
+  pointer-events: none;
+}
