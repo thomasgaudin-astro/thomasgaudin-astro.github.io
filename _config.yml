@@ -312,5 +312,5 @@ compress_html:
   ignore:
     envs: development
 
-remote_theme: benbalter/retlab
+site_theme: contrast
 
